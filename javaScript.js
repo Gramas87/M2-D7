@@ -6,6 +6,6 @@ const newLink = function () {
 
 
 colorGreen = function () {
-document.querySelector("h1").style.color="green"
-}
-console.log(colorGreen)
+    document.querySelector("h1").style.color=("green")
+    }
+    console.log(colorGreen)

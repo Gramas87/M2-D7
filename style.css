@@ -1,4 +1,4 @@
-.list-unstyled:first-of-type>li>a:not(div){color: salmon;
+.blog-sidebar div:nth-child(2) a{color: salmon;
 
 }
 
