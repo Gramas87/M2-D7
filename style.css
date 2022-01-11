@@ -1,3 +1,4 @@
-.list-unstyled:first-of-type>li>a:not(ol+li){color: salmon;
+.list-unstyled:first-of-type>li>a:not(div){color: salmon;
 
 }
+
